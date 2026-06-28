@@ -1,2 +1,6 @@
 # CareerOS
-CareerOS is an evidence-based career portfolio platform that transforms verified commercial diving work records into executive career packets, interactive dashboards, production analytics, and professional summaries using AI-assisted data organization.
+Evidence-Based Career Portfolio Platform
+
+CareerOS transforms verified commercial diving work records into an interactive, evidence-based professional portfolio.
+
+Rather than relying on traditional resumes alone, CareerOS organizes documented project history into dashboards, executive career packets, infrastructure portfolios, production analytics, and interactive career summaries.
